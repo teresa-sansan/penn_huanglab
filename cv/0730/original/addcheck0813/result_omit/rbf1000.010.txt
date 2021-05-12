@@ -1,0 +1,3 @@
+# Tuning hyper-parameters = kernal:rbf, C:100.000, gamma:0.010
+training accuracy = 0.871149815
+auROC = 0.871

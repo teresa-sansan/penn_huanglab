@@ -1,0 +1,2 @@
+# Tuning hyper-parameters = kernal:rbf, C:1.000, gamma:1.000
+testing accuracy = 0.586

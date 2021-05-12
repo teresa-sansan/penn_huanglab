@@ -1,0 +1,2 @@
+# Tuning hyper-parameters = kernal:linear, C:100.000, gamma:0.100
+training accuracy = 0.898182
